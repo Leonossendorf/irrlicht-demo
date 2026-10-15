@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://irrlicht.leonossendorf.de/sitemap.xml
